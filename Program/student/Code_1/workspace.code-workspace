@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Project\\Python"
+		},
+		{
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"hello.C": "cpp",
+			"student.C": "cpp",
+			"STUDENT_.C": "cpp"
+		}
+	}
+}
